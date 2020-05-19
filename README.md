@@ -77,3 +77,27 @@ Now that you're set up and connected, you should be able to work within your Cod
 ## Contributing
 
 Contributions are welcome. Please refrain from opinionated additions like linters. However, adding package managers and other DX improvements that are additive like `yarn` are welcome. Contributors must follow the [Code of Conduct](./CODE_OF_CONDUCT.md).
+  
+## Coding Challenge:  
+
+You can try to solve this challenge to test your environment.  
+  
+- [Challenge link](https://leetcode.com/problems/range-sum-query-immutable/)
+  
+Given an integer array "nums", find the sum of the elements between indices i and j (i ≤ j), inclusive.  
+  
+Example:  
+Given nums = [-2, 0, 3, -5, 2, -1]  
+  
+sumRange(0, 2) -> 1  
+sumRange(2, 5) -> -1  
+sumRange(0, 5) -> -3 
+  
+Note:  
+You may assume that the array does not change.  
+There are many calls to sumRange function.  
+
+
+
+  
+
